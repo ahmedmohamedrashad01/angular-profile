@@ -32,7 +32,7 @@
     rgb(144 180 212 / 12%),
     rgb(30 168 222 / 30%)),
 
-  url(/assets/test2.png);
+  url('/src/assets/test2.png');
 
   background-repeat: no-repeat;
   background-size: 100% 100%;
